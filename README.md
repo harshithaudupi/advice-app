@@ -1,2 +1,2 @@
 # advice-app
-Advice App Click for instant, diverse advice.
+Click for instant, diverse advice.
